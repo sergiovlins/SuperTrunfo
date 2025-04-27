@@ -1,5 +1,4 @@
 🃏 Super Trunfo
-Um jogo criado a partir dos fundamentos básicos da linguagem de programação C.
 
 Este projeto é uma versão em C do clássico Super Trunfo. Ele foi desenvolvido com fins educacionais, explorando desde os fundamentos da linguagem C até a lógica de comparação e cálculo de atributos.
 
